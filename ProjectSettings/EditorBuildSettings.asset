@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Title.unity
+    guid: 99fd9250b00cd5643999121060d30471
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: b0cd1ebddc5129e4e9723b6f3ea159f4
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ca4c6607f67aaf940971aea3d5c8c0be
+  - enabled: 1
+    path: Assets/Scenes/VR.unity
+    guid: 68ba0faa6a03e6e42923978c9c834a0e
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: dc4f697dcb15a7244bbfe5874a85e2f4
+  - enabled: 0
+    path: Assets/Scenes/Testing_VR.unity
+    guid: 9a1ddd7be15a15b4482e1640a2fdbadf
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 06f593e70b80a314780f87d47e548fda,
+      type: 2}
